@@ -1,4 +1,4 @@
-# 👋 ¡Hola, mi nombre es [Angel Jonathan Puch Hernández]!
+# 👋 ¡Hola, mi nombre es Angel Jonathan Puch Hernández!
 
 ## 💻 Estudiante de Ingeniería de Software | Desarrollador fullstack en formación
 
