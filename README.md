@@ -1,4 +1,4 @@
-# 👋 ¡Hola, mi nombre es [Tu Nombre]!
+# 👋 ¡Hola, mi nombre es [Angel Jonathan Puch Hernández]!
 
 ## 💻 Estudiante de Ingeniería de Software | Desarrollador fullstack en formación
 
@@ -20,8 +20,8 @@ Estoy comprometido con seguir aprendiendo y creando soluciones úteiles con tecn
 
 🌐 Redes
 
-👨‍💼 LinkedIn
-💬 [Discord](https://discord.gg/tuinvitación)
+- 👨‍💼 [LinkedIn](www.linkedin.com/in/puch-hernandez-angel-jonathan-5500322b4)
+- 💬 [Discord](https://discord.gg/tuinvitación)
 - 🐦 [Twitter](https://twitter.com/tuusuario)
 - 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
 - 🧠 [Twitch](https://twitch.tv/tuusuario)
@@ -33,4 +33,4 @@ Estoy comprometido con seguir aprendiendo y creando soluciones úteiles con tecn
 
 📧 Puedes contactarme por correo o a través de LinkedIn.
 
-📬 Puedes contactarme por [correo@tudominio.com](mailto:correo@tudominio.com)
+📬 Puedes contactarme por [angeljonathanpuchhernandez@gmail.com](angeljonathanpuchhernandez@gmail.com)
